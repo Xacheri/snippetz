@@ -1,0 +1,14 @@
+C:\Users\zsmith\source\repos\snippetz\snippetz\bin\Debug\net8.0\snippetz.exe
+C:\Users\zsmith\source\repos\snippetz\snippetz\bin\Debug\net8.0\snippetz.deps.json
+C:\Users\zsmith\source\repos\snippetz\snippetz\bin\Debug\net8.0\snippetz.runtimeconfig.json
+C:\Users\zsmith\source\repos\snippetz\snippetz\bin\Debug\net8.0\snippetz.dll
+C:\Users\zsmith\source\repos\snippetz\snippetz\bin\Debug\net8.0\snippetz.pdb
+C:\Users\zsmith\source\repos\snippetz\snippetz\obj\Debug\net8.0\snippetz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsmith\source\repos\snippetz\snippetz\obj\Debug\net8.0\snippetz.AssemblyInfoInputs.cache
+C:\Users\zsmith\source\repos\snippetz\snippetz\obj\Debug\net8.0\snippetz.AssemblyInfo.cs
+C:\Users\zsmith\source\repos\snippetz\snippetz\obj\Debug\net8.0\snippetz.csproj.CoreCompileInputs.cache
+C:\Users\zsmith\source\repos\snippetz\snippetz\obj\Debug\net8.0\snippetz.dll
+C:\Users\zsmith\source\repos\snippetz\snippetz\obj\Debug\net8.0\refint\snippetz.dll
+C:\Users\zsmith\source\repos\snippetz\snippetz\obj\Debug\net8.0\snippetz.pdb
+C:\Users\zsmith\source\repos\snippetz\snippetz\obj\Debug\net8.0\snippetz.genruntimeconfig.cache
+C:\Users\zsmith\source\repos\snippetz\snippetz\obj\Debug\net8.0\ref\snippetz.dll
